@@ -36,6 +36,10 @@ XNOR
 ### XNOR GATE
 <img width="406" height="115" alt="image" src="https://github.com/user-attachments/assets/02a3b16c-03c1-4240-9ee0-3690cc9ada69" />
 
+###  NOT GATE
+<img width="348" height="115" alt="image" src="https://github.com/user-attachments/assets/4770fafe-df07-4a1a-8162-c3e5ae770c73" />
+
+
 
 
 
