@@ -8,13 +8,13 @@
 
 We can add Keys and LEDs on PORT 1 of the computer for logic input and output display. Currently not implemented.  
 
-AND  
+**AND**  
 NAND  
-OR  
+**OR**  
 NOR  
-NOT  
 XOR  
 XNOR  
+**NOT**  
 
 <img width="612" height="229" alt="image" src="https://github.com/user-attachments/assets/e9b33f71-b849-4c1f-8fcc-e8ca37f6a34a" />
 
