@@ -30,6 +30,16 @@ XNOR
 ###  NOR GATE
 <img width="406" height="115" alt="image" src="https://github.com/user-attachments/assets/b4567002-86c5-470f-9e59-67656656648e" />
 
+###  XOR GATE
+<img width="406" height="115" alt="image" src="https://github.com/user-attachments/assets/5c4988a2-9cec-4926-96af-7d625dfd6fee" />
+
+### XNOR GATE
+<img width="406" height="115" alt="image" src="https://github.com/user-attachments/assets/02a3b16c-03c1-4240-9ee0-3690cc9ada69" />
+
+
+
+
+
 
 
 
