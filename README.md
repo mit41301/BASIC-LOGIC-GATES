@@ -40,7 +40,11 @@ XNOR
 <img width="348" height="115" alt="image" src="https://github.com/user-attachments/assets/4770fafe-df07-4a1a-8162-c3e5ae770c73" />
 
 
+For 16 bit input Logic Gates, the input ranges from 0 to 65535. The user can enter input values either in Decimal or Hexa Decimal format.  Hexa decimal digits starting with Alphabet(A,B,C,D,E and F) should preceded with a zero.
+All the hexadecimal digits should end with the letter H.
 
+Both the inputs and outputs will be displayed as a four digit hexadecimal digit XXXXH format. The user can change the format using differnt format.  
+PH0. will not show the leading zero and the output will be hexadecimal. Just entering PRINT will show the results in Decimal format.
 
 
 
