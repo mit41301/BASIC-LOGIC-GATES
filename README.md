@@ -46,6 +46,7 @@ All the hexadecimal digits should end with the letter H.
 Both the inputs and outputs will be displayed as a four digit hexadecimal digit XXXXH format. The user can change the format using differnt format.  
 PH0. will not show the leading zero and the output will be hexadecimal. Just entering PRINT will show the results in Decimal format.
 
+<img width="1220" height="719" alt="image" src="https://github.com/user-attachments/assets/ee42c261-6fb7-4214-b279-eeabf739ab3c" />
 
 
 
